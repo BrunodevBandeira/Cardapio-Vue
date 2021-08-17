@@ -1,6 +1,7 @@
 body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(to right, #ff4e50, #f9d423); 
 }
 
 main > section.items h4 {
